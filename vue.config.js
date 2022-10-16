@@ -71,7 +71,7 @@ module.exports = {
 
       config.plugin('html').tap(args => {
         args[0].isProd = true
-        args[0].title = 'Tcefrep的博客'
+        args[0].title = '编程技术'
         return args
       })
     })
