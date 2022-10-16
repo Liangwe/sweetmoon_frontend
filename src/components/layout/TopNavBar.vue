@@ -106,7 +106,7 @@
                 </router-link>
               </li>
               <li>
-                <a href="https://admin.tcefrep.site/">
+                <a href="https://admin.sweetmmon.site/">
                   <i class="user secret icon"/> 管理员
                 </a>
               </li>
