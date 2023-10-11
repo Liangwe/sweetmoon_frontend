@@ -3,7 +3,7 @@
     <div class="footer-wrap">
       <div>&copy; 2022 - {{ new Date().getFullYear() }} By SweetMoon</div>
       <a href="https://beian.miit.gov.cn/" target="_blank">
-        ICP备2022007226号-1
+        京ICP备2022007226号-1
       </a>
     </div>
   </el-footer>
